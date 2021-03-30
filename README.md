@@ -46,13 +46,12 @@
 
 ## :dart: Sobre ##
 
-Sobre o seu projeto
+Aplicação que onde o usuário consegue adicionar repositórios disponíveis no github e visualizar suas issues. Feito em ReactJS.
 
 ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: Funcionalidade 1;\
-:heavy_check_mark: Funcionalidade 2;\
-:heavy_check_mark: Funcionalidade 3;
+:heavy_check_mark: Adicionar repositório;\
+:heavy_check_mark: Visualizar issues;\
 
 ## :rocket: Tecnologias ##
 
