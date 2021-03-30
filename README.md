@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Repositorios App" />
+  <img src="./.github/image.png" alt="Repositorios App" />
 
   &#xa0;
 
@@ -51,7 +51,7 @@ Aplicação que onde o usuário consegue adicionar repositórios disponíveis no
 ## :sparkles: Funcionalidades ##
 
 :heavy_check_mark: Adicionar repositório;\
-:heavy_check_mark: Visualizar issues;\
+:heavy_check_mark: Visualizar issues;
 
 ## :rocket: Tecnologias ##
 
